@@ -1,2 +1,6 @@
 # Personal Loans Webpage
-CSCI 571 : HW3 : HTML and CSS
+A very basic webpage made by referencing a given design template, using HTML and CSS
+
+(Note : Images in this project are no longer hosted online and hence won't be visible.)
+
+Course - CSCI 571:Web Technologies - Fall 2017
